@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="wraper">
+        <div class="nav">
+            <div class="logo">
+                <a href="#">
+                    <p>Kuliner madiun</p>
+                </a>
+            </div>
+            <ul>
+                <li>Home</li>
+                <li>Food</li>
+                <li>Hotel</li>
+                <li>About</li>
+                <li>Contact</li>
+            </ul>
+        </div>
+            <div class="header">
+        <h1>Kuliner<span>madiun</span></h1>
+            </div>
+
+
+            <div class="Contenr-header">
+                <p>Nasi pecel Madiun adalah salah satu makanan khas Jawa Timur yang paling terkenal. Hidangan ini terdiri dari nasi putih yang disiram dengan bumbu pecel yang terbuat dari kacang tanah, keluak, dan berbagai rempah-rempah.</p>
+                <br>
+                <input type="text" name="text"
+                class="search-input"
+                placeholder="cari tempat Kuliner...">
+                <input class="Search-btn"  type="button" value="cari">
+            </div>
+
+            <div class="col-img">
+                <img src="image.png" alt="">
+            </div>
+</div>
+    </div>
+</body>
+</html>
